@@ -46,10 +46,7 @@ The project is organized as follows:
 .StayWell-30/
 ├── .vscode/                 # VS Code settings
 ├── data/                    # Raw data files
-├── processed_data/          # Preprocessed data ready for modeling
 ├── models/                  # Saved models for predictions
-├── model_trainer/           # Scripts for training the model
-├── testing/                 # Test cases and validation data (e.g., JSON files)
 ├── LICENSE                  # License for the project
 ├── README.md                # Project documentation
 ├── main.py                  # Main script to run predictions
